@@ -31,7 +31,7 @@ const App = () => {
   }
 
   return(
-    <div>
+    <div className="container">
       <h1>BIN2DEC</h1>
       
       <input
